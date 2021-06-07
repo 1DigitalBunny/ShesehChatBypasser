@@ -10,7 +10,7 @@ const ffmpeg = require("ffmpeg-cli")
 const prefix = "-"
 const express = require("express")
 const server = express();
-const token = "put your bot token here"
+const token = "ODUxNTUzMTYwMzI5NDI5MDYy.YL58rg.lU3ntJzPQJdQO-miD5GtVAUhtmY"
 server.all('/', (req, res)=>{
   res.send('Your bot is alive!')
 })
