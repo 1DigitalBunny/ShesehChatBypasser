@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@mapbox/node-pre-gyp": "^1.0.1",
+    "colors": "^1.4.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "ffmpeg-cli": "^2.7.3",
+    "fs2": "^0.3.9",
+    "graceful-fs": "^4.2.6",
+    "jimp": "^0.16.1",
+    "png-js": "^1.0.0",
+    "prepend": "^1.0.2",
+    "punycode": "^2.1.1",
+    "request": "^2.88.2",
+    "select-random-file": "^1.2.0",
+    "ytdl-core": "^4.8.2"
+  }
+}
